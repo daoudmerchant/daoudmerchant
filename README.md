@@ -8,7 +8,7 @@ Former music conservatoire professor, now deep-diving in to JS and full-stack we
 A MERN-stack jazz discovery app using the Spotify API and web playback SDK to search for jazz by instrument from a curated database and play in the browser. Written using Typescript, Redux Toolkit and React Router Dom.
 
 #### Snippets • [DEMO](https://immense-coast-30841.herokuapp.com/) • [REPO](https://github.com/daoudmerchant/salt-hackday)
-A CRUD MERN-stack app with user accounts containing one-click-copy text snippets (inc. templating using variables), written and deployed in 36hrs as part of the [School of Applied Technology](https://www.salt.study/our-hubs) 'Hack day' project.
+A CRUD MERN-stack app with user accounts containing one-click-copy text snippets (inc. templating using variables), written and deployed in 36hrs as part of the School of Applied Technology 'Hack day' project.
 
 
 ## React
