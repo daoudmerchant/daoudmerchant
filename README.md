@@ -1,18 +1,23 @@
 # Hello everyone!
 
-Former music conservatoire professor, now deep-diving in to JS, React and front-end web development. Have a look around, and contact me if you like what you see! (Contact me even if you don't, tell me what I need to improve!)
+Former music conservatoire professor, now deep-diving in to JS and full-stack web development with the . Have a look around, and contact me if you like what you see! (Contact me even if you don't, tell me what I need to improve!)
 
 ## Most Recent
+
+#### Jazzify • [DEMO](https://findmejazz.herokuapp.com/) • [REPO](https://github.com/daoudmerchant/jazzify) • [VIDEO](https://www.youtube.com/watch?v=wkLdCrWnmng)
+A MERN-stack jazz discovery app using the Spotify API and web playback SDK to search for jazz by instrument from a curated database and play in the browser. Written using Typescript, Redux Toolkit and React Router Dom.
+
+#### Snippets • [DEMO](https://immense-coast-30841.herokuapp.com/) • [REPO](https://github.com/daoudmerchant/salt-hackday)
+A CRUD MERN-stack app with user accounts containing one-click-copy text snippets (inc. templating using variables), written and deployed in 36hrs as part of the [School of Applied Technology](https://www.salt.study/our-hubs) 'Hack day' project.
+
+
+## React
 
 #### ShowMeSomething • [DEMO](https://daoudmerchant.github.io/show-me-something/#/) • [REPO](https://github.com/daoudmerchant/show-me-something)
 A button-based Reddit app using the Reddit API, with CRUD management of buttons stored in user accounts on Google Firebase upon form validation.
 
 #### Portfolio Site • [LIVE](https://www.daoudmerchant.com) • [REPO](https://github.com/daoudmerchant/portfolio)
 An animated portfolio website with extensive knock-out graphics.
-
-
-
-## React
 
 #### Battleships • [DEMO](https://daoudmerchant.github.io/battleships/) • [REPO](https://github.com/daoudmerchant/battleships)
 A mobile Battleships app with two-player hot-seating, an AI opponent, multiple grid sizes and a drag-and-drop ship placement interface.
