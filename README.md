@@ -1,6 +1,6 @@
 # Hello everyone!
 
-Former music conservatoire professor, now deep-diving in to JS and full-stack web development with the [School of Applied Technology](https://www.salt.study/our-hubs). Have a look around, and contact me if you like what you see! (Contact me even if you don't, tell me what I need to improve!)
+Former music conservatoire professor, now a software developer at [Stabelo](https://www.stabelo.se/). Have a look around, and contact me if you like what you see! (Contact me even if you don't, tell me what I need to improve!)
 
 ## Most Recent
 
