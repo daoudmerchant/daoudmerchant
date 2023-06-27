@@ -2,6 +2,11 @@
 
 Former music conservatoire professor, now a software developer at [Stabelo](https://www.stabelo.se/). Have a look around, and contact me if you like what you see! (Contact me even if you don't, tell me what I need to improve!)
 
+## Latest/In Progress
+
+#### StocksGPT • [REPO](https://github.com/daoudmerchant/stocks-gpt)
+An unfinished app using PostgreSQL and Next.js, piping stock activity to ChatGPT and receiving analytical insights in prose. Using the experience to practise writing mock services, extensive test coverage and to get my hands wet with the ChatGPT API and Next.js 13 (which both look really cool!)
+
 ## Most Recent
 
 #### Jazzify • [DEMO](https://findmejazz.herokuapp.com/) • [REPO](https://github.com/daoudmerchant/jazzify) • [VIDEO](https://www.youtube.com/watch?v=wkLdCrWnmng)
